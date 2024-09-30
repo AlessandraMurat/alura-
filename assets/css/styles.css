@@ -72,3 +72,53 @@ body {
 .container__img {
   margin: 24px 0 52px 0;
 }
+
+.platforms,
+.combo,
+.courses {
+  align-items: center;
+  padding: 0 6em;
+  height: 90vh;
+}
+
+.container__image {
+  width: 90%;
+}
+
+.combo__description {
+  padding-right: 70px;
+}
+.container__description > .container__title {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.container__text {
+  color: var(--gray);
+}
+
+.secondary-button {
+  display: inline-block;
+  margin-top: 16px;
+}
+
+.devices {
+  text-align: center;
+  padding: 5em 6em;
+}
+.devices__lista {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+
+.devices__title {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+
+.devices__lista_item_description {
+  font-size: 24px;
+}
