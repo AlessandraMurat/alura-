@@ -15,7 +15,7 @@
 
 # Visualizar Site
 
-<p>Você pode visualizar uma prévia do projeto clicando <a href="https://link-da-demo.com](https://alura-plus-tau-wine.vercel.app" target="_blank">aqui</a></p>
+<p>Você pode visualizar uma prévia do projeto clicando <a href="https://alura-plus-tau-wine.vercel.app" target="_blank">aqui</a></p>
 <br>
 
 # Instalação e Uso
